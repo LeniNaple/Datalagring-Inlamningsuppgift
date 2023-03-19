@@ -1,7 +1,7 @@
 ﻿using ErrorManagement.Services;
 
 MainMenu menu = new MainMenu();
-
+ 
 
 while (true)
 {
